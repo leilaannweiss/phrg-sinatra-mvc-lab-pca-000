@@ -18,5 +18,9 @@ In this lab, you'll be building a **Pig Latinizer** using Sinatra and the MVC pa
 
 <a href='https://en.wikipedia.org/wiki/Pig_Latin'>Pig Latin on wikipedia</a>
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-mvc-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-mvc-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-mvc-lab'>Sinatra MVC Lab</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Sinatra MVC Lab - Pig Latinizer</p>
